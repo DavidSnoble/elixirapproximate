@@ -1,6 +1,7 @@
 # Aprox
 
-**TODO: Add description**
+**This library simply approximates the irrational numbers e and pi using recursive apporixmation methods
+The only function input is the number of iterations each function will do.**
 
 ## Installation
 
